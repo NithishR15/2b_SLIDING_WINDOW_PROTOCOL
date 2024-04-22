@@ -47,3 +47,14 @@ while True:
 
 
 ![Screenshot 2024-02-28 212135](https://github.com/nivethasuresh1408/2b_SLIDING_WINDOW_PROTOCOL/assets/152055927/dd4021e5-425d-4ce9-9223-03fe9282e49f)
+
+
+
+![Screenshot 2024-02-28 212140](https://github.com/nivethasuresh1408/2b_SLIDING_WINDOW_PROTOCOL/assets/152055927/2199d6f6-963a-4a62-9921-cb5dbe78d46d)
+
+
+
+
+## RESULT
+Thus, python program to perform stop and wait protocol was successfully executed
+
